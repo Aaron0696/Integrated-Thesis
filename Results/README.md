@@ -116,14 +116,41 @@ Number of non-convergence replications out of 800. Includes improper solution as
 
 [59] "D3chirej"             
 
-Chi-square rejection rates of the naive chi-square from the D3 method.
+Chi-square rejection rates of the *naive* chi-square from the *D3* method.
 
 [60] "noFitD3"              
+
+Number of replication out of 800 that the *lavTestLRT.mi()* was unable to produce model fit statistics.
+
 [61] "D3scaled.chirej"      
+
+Chi-square rejection rates of the *scaled* chi-square from the *D3* method.
+
 [62] "noFitScaleD3"         
+
+Number of replication out of 800 that the *lavTestLRT.mi()* was unable to produce model fit statistics.
+
 [63] "D2chireg"             
+
+Chi-square rejection rates of the *naive* chi-square from the *D2* method.
+
 [64] "noFitD2"              
+
+Number of replication out of 800 that the *lavTestLRT.mi()* was unable to produce model fit statistics.
+
 [65] "D2scaled.chireg"      
+
+Chi-square rejection rates of the *scaled* chi-square from the *D2* method.
+
 [66] "noFitScaleD2"         
+
+Number of replication out of 800 that the *lavTestLRT.mi()* was unable to produce model fit statistics.
+
+
 [67] "D2scaled.chiregRobust"
+
+Chi-square rejection rates of the *adjusted* chi-square from the *D2* method.
+
 [68] "noFitScaleD2Robust"   
+
+Number of replication out of 800 that the *lavTestLRT.mi()* was unable to produce model fit statistics.
