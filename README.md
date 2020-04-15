@@ -7,5 +7,3 @@
 Main_Script.R is the main script while the other R files contain functions with different specifications depending on the approach, the other R files are loaded according to the approach chosen in Main_Script.R.
 
 3. The results folder contains the dataframes used to plot the diagrams in the thesis, they are saved in RDS files.
-
-Test
