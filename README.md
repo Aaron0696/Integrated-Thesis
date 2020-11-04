@@ -7,3 +7,5 @@
 Main_Script.R is the main body while the other R files contain functions with different specifications depending on the approach selected, the other R files are loaded according to the approach chosen in Main_Script.R using `source()`.
 
 3. The results folder contains the dataframes used to plot the diagrams in the thesis, they are saved in RDS files.
+
+The thesis is available for download at https://scholarbank.nus.edu.sg/handle/10635/171658.
